@@ -1,0 +1,16 @@
+
+FILE SYSTEM SEARCH USING BFS AND DFS
+
+Nodes:
+0 = Root
+1 = Documents
+2 = Pictures
+3 = notes.txt
+4 = report.pdf
+5 = photo.jpg
+
+BFS traversal: Root Documents Pictures notes.txt report.pdf photo.jpg
+BFS result: File found
+
+DFS traversal: Root Documents notes.txt report.pdf Pictures photo.jpg
+DFS result: File found
